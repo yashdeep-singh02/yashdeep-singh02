@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on this page. 
 
-###Skills:
+#### Skills:
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" /></div>
 
 
-###Socials:
+#### Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yashdeep-singh02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/yashdeepsinghbhatia2002/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/yashdeep_bhatia)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdeep-singh02)](https://github.com/anuraghazra/github-readme-stats)
